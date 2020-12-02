@@ -1,5 +1,12 @@
 import io.vavr.collection.List;
 
+/**
+ * This is the main class of the Fibonacci application. Its responsibility is to
+ * dump the first N Fibinacci numbers
+ * 
+ * @author Tibor
+ *
+ */
 public class Sample3 {
 
 	public static int f(int i) {

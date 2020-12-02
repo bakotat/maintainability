@@ -1,5 +1,12 @@
 import io.vavr.collection.List;
 
+/**
+ * This is the main class of the Fibonacci application. Its responsibility is to
+ * dump the first N Fibinacci numbers
+ * 
+ * @author Tibor
+ *
+ */
 public class Sample2 {
 
 	private static final double phi = (1 + Math.sqrt(5)) / 2;
